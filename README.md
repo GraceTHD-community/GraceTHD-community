@@ -11,7 +11,9 @@ GraceTHD is the result of a synthesis of pre-existing projects as Geostandard Di
 To date these projects are exclusively in French, however, if non-speaking users wishing to contribute to internationalize the project, it is quite possible to consider to change the development in this direction. Thank you to contact us via Github or via our Redmine platform.
 
 GraceTHD-community deposits the source code of its projects on Github and manages its projects on a Redmine platform.
+
 https://github.com/GraceTHD-community
+
 http://redmine.gracethd.org
 
 
@@ -26,6 +28,8 @@ GraceTHD est le résultat d'une synthèse de projets pré-existants comme le Geo
 A ce jour ces projets sont exclusivement en français, toutefois si des utilisateurs non francophones souhaitent contribuer pour internationaliser le projet, il est tout à fait possible d'envisager de faire évoluer le développement dans ce sens. Merci de nous contacter via Github ou via notre plateforme Redmine. 
 
 GraceTHD-community dépose le code source de ses projets sur Github et gère ses projets sur une plateforme Redmine. 
+
 https://github.com/GraceTHD-community
+
 http://redmine.gracethd.org
 
